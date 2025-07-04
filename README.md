@@ -1,2 +1,3 @@
 # ChaoticPro-Solidity
-[NFT] Chaotic Graphics Generator Pro (Smart Contracts Solidity Source Code (ERC-1155))
+
+This repository contains the smart contract code for the `Chaotic Graphics Generator Pro` NFT collection, including an ERC-1155 implementation and an ERC-1967 proxy.
